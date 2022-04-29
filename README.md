@@ -29,7 +29,7 @@ npm install
 
 ### Para usar separador_de_xml, siga estas etapas:
 
-Crie uma pasta com o nome `xml`dentro do diretório do projeto. Após fazer isso, copie os seus XML's para essa pasta.
+Crie uma pasta com o nome `xml` dentro do diretório do projeto. Após fazer isso, copie os seus XML's para essa pasta.
 
 Com o projeto já configurado, basta executar o seguinte comando:
 ```
